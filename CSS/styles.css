@@ -48,6 +48,7 @@ body {
     padding: 5px 25px;
     font-weight: bolder !important;
     margin-top: 2em;
+    color: black;
 }
 
 .icon-redes-sociais {
@@ -135,6 +136,10 @@ body {
     .rodape {
         text-align: center !important;
         margin-bottom: 10px;
+    }
+
+    #btn-projeto {
+    color: black !important;
     }
 }
 
