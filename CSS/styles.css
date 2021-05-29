@@ -87,10 +87,15 @@ body {
 
 #footer-elementos a {
     text-decoration: none;
+    color: #fa8a21fd;
 }
 
 #footer-elementos .email {
     padding: 15px 0px 15px 0px;
+}
+
+#link-growdev {
+    color: #fa8a21fd;
 }
 
 @media (min-width: 900px) {
