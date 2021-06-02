@@ -99,6 +99,10 @@ body {
     color: #fa8a21fd;
 }
 
+#link-projeto {
+    color: #fa8a21fd;
+}
+
 @media (min-width: 900px) {
 
     .container-linear {
